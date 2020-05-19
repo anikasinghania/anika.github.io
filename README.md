@@ -1,2 +1,2 @@
 # portfolio
-This website is a porfolio that inludes reports of my projects.
+This website is about me,features reports of my projects, and includes my resume.
