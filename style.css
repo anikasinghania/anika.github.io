@@ -1,0 +1,47 @@
+body {
+  background-color: #222222;
+}
+
+#name {
+  letter-spacing: 21.1px;
+  font-family: 'Caveat Brush', cursive;
+  color: #FFFFFF;
+  font-size: 80px;
+  text-align: left;
+  margin-left: 5rem;
+  margin-top: 6rem;
+  z-index: -1;
+  position: absolute;
+  text-shadow: 3px 3px #222222, 8px 8px #FA92DD;
+}
+
+#anika {
+  position: absolute;
+  bottom: 0px;
+  right: 13rem;
+  width: 33rem;
+  height: auto;
+}
+
+#about,
+#fashion,
+#projects {
+  color: #EEE2D7;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  padding: 1rem;
+  padding-top: 10rem;
+}
+
+nav {
+  padding: 3rem 3rem;
+}
+
+#resume, #github, #linkedin, #email {
+  padding-left: 1rem;
+  margin-top: 35rem;
+}
+/*# sourceMappingURL=style.css.map */
